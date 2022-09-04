@@ -1,1 +1,1 @@
-# Operating_Sytems_Project_1
+# Operating_Systems_Project_1
